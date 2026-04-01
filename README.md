@@ -57,7 +57,7 @@ Writing a competitive research proposal requires synthesizing large volumes of l
 
 The notebook is published as a rendered HTML file — no setup required:
 
-👉 **[View the Notebook](./JHU_AGAI_Final_Project_Learners_Notebook_9th_January_Latest.html)**
+👉 **[View the Notebook](https://raagamadappa.github.io/jhu-agai-research-proposal-rag/)**
 
 > To view it rendered, either clone this repo and open the HTML in a browser, or enable GitHub Pages on this repository.
 
@@ -115,4 +115,4 @@ Course materials, the NOFO document, dataset scaffolding, and the assignment bri
 
 ## Author
 
-**Raaga** | AI/ML Professional | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Raaga Madappa** | AI/ML Professional | [LinkedIn](https://www.linkedin.com/in/raaga-madappa/)
