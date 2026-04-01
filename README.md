@@ -59,8 +59,7 @@ The notebook is published as a rendered HTML file — no setup required:
 
 👉 **[View the Notebook](https://raagamadappa.github.io/jhu-agai-research-proposal-rag/)**
 
-> To view it rendered, either clone this repo and open the HTML in a browser, or enable GitHub Pages on this repository.
-
+> To view it rendered, clone this repo and open the HTML in a browser.
 ---
 
 ## Running the Notebook Locally
