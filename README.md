@@ -57,7 +57,7 @@ Writing a competitive research proposal requires synthesizing large volumes of l
 
 The notebook is published as a rendered HTML file — no setup required:
 
-👉 **[View the Notebook](https://raagamadappa.github.io/jhu-agai-research-proposal-rag/)**
+👉 **[View the Notebook](./JHU_AGAI_Final_Project_Learners.ipynb)**
 
 > To view it rendered, clone this repo and open the HTML in a browser.
 ---
